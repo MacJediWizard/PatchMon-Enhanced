@@ -164,4 +164,5 @@ docker/compose_dev_*
 
 # Conductor agent prompts (keep local, not public)
 docs/conductor-prompts/
+docs/upstream-sync-report.md
 .encryption_key
